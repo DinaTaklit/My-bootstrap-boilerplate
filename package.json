@@ -1,0 +1,31 @@
+{
+  "name": "DinaPortfolio",
+  "version": "1.0.0",
+  "description": "This is Dina TAKLIT Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "js",
+    "bootstrap",
+    "sass",
+    "gulpjs"
+  ],
+  "author": "Dina TAKLIT",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^4.14.1"
+  }
+}
